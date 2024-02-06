@@ -13,7 +13,7 @@ https://github.com/microsoftarchive/redis/releases/tag/win-3.0.504
 
 ![image](https://github.com/biplobpustcse/Install-Redis-for-Cache/assets/59637279/7cdf0a60-c714-4d2f-b6ba-a8c8bdcd207a)
    
-a)	IP (6379)
+a)	IP (127.0.0.1)
 
 b)	Post (6379)
 
