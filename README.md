@@ -14,5 +14,6 @@ https://github.com/microsoftarchive/redis/releases/tag/win-3.0.504
 a)	IP (6379)
 
 b)	Post (6379)
+
 Example: 127.0.0.1:6379
 
