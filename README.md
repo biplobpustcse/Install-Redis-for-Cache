@@ -6,8 +6,6 @@ https://github.com/microsoftarchive/redis/releases/tag/win-3.0.504
 ![image](https://github.com/biplobpustcse/Install-Redis-for-Cache/assets/59637279/4708b594-52f9-4815-8294-455d67fc8c5a)
 
 3.	Install
-   
-
 
 4.	After install you can see testing window
 
